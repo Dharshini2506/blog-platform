@@ -13,7 +13,9 @@ const app = express();
 app.use(cors({
   origin: [
     'http://localhost:3000',
-    'https://blog-platform-frontend-pi.vercel.app'
+    'https://blog-platform-frontend-pi.vercel.app',
+    'https://blog-platform-frontend-mfsfibiy5-dharshini2506s-projects.vercel.app',
+    /\.vercel\.app$/
   ],
   credentials: true
 }));
