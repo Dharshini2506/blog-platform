@@ -10,7 +10,14 @@ const commentRoutes = require('./routes/commentRoutes');
 
 const app = express();
 
-app.use(cors());
+app.use(cors({
+  origin: [
+    'http://localhost:3000',
+    'https://blog-platform-frontend-pi.vercel.app'
+  ],
+  credentials: true
+}));
+
 app.use(express.json());
 
 mongoose.connect(process.env.MONGODB_URI)
