@@ -17,7 +17,12 @@ A full-stack blogging platform where users can create, edit, delete posts and in
 - **Authentication:** JWT
 
 ## Screenshot
-<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/e93d6636-18e9-411a-bb4b-035a77fb950e" />
+<img width="1919" height="902" alt="image" src="https://github.com/user-attachments/assets/440df7de-d8f6-4a43-a198-0270db973581" />
+
+<img width="1919" height="916" alt="image" src="https://github.com/user-attachments/assets/1286439f-3054-43a5-ab96-ce83e9665bef" />
+
+<img width="1340" height="919" alt="image" src="https://github.com/user-attachments/assets/d5959b21-8f4f-4852-823e-d502a0c7356b" />
+
 
 ## Author
 Dharshini
