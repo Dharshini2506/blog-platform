@@ -15,3 +15,9 @@ A full-stack blogging platform where users can create, edit, delete posts and in
 - **Backend:** Node.js + Express
 - **Database:** MongoDB
 - **Authentication:** JWT
+
+## Screenshot
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/e93d6636-18e9-411a-bb4b-035a77fb950e" />
+
+## Author
+Dharshini
